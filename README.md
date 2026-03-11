@@ -1,2 +1,4 @@
-# julia-franca-e-castilho
-estudante de ciências sociais - USP. Aprendendo a programar em R
+# Júlia França e Castilho
+Estudante de ciências sociais - USP
+
+Aprendendo a programar em R
